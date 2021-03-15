@@ -3,7 +3,7 @@ class Ground{
         var options={
             isStatic:true,
             'restitution':0,
-            'friction':80,
+            'friction':190,
             'density':1
         }
         this.body = Bodies.rectangle(x,y,width,height,options)

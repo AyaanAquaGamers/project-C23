@@ -24,9 +24,9 @@ function setup() {
   
   ground = new Ground(400,650,800,20)
 
- leftSide=createSprite(600,620,20,40)
- bottom=createSprite(680,630,150,20)
- rightSide=createSprite(760,620,20,40)
+ leftSide=createSprite(570,620,20,40)
+ bottom=createSprite(650,630,180,20)
+ rightSide=createSprite(750,620,20,40)
 
 
 	Engine.run(engine);
